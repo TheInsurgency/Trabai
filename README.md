@@ -1,2 +1,3 @@
 Welcome to the worst .NET code i have ever done, this is just bs i made in free time and some parts of this code are just bad, boys use this as you wish i have no idea if im ever gonna continue this project.
 Also most of the code is not used and i will be frank if i ever start this again i will remove 99% of the written code i did. Also if i remember this was made using NET 8.0, im also still learning OpenGL so it sucks.
+TLDR: Do not run this code for prolonged periods of time or just don't run this at all if you have an weak computer, my computer is bad so it made some noises when i ran it, but you should probally be fine
